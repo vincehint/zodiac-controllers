@@ -18,7 +18,7 @@
 
 | URL Pattern  | Content |
 | ------------- | ------------- |
-| /  | 3 navigation links (/water, /air, /fire) |
+| /  | 3 navigation links (/water, /air, /fire, /earth) |
 | /water | list of water signs and relevant traits from the graphic above  |
 | /air | list of air signs and relevant traits from the graphic above  |
 | /fire | list of fire signs and relevant traits from the graphic above  |
